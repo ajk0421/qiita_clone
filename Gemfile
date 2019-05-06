@@ -46,6 +46,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_bot_rails'
   gem 'faker'
+  gem "onkcop", require: true
 end
 
 group :development do
